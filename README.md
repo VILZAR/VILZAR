@@ -72,7 +72,7 @@
         <b>Testing</b>
       </td>
       <td align="left" height="65" valign="middle">
-        <img src="https://skillicons.dev/icons?i=jest,cypress,postman" height="40" align="middle" alt="testing" />
+        <img src="https://skillicons.dev/icons?i=jest,cypress" height="40" align="middle" alt="testing" />
       </td>
     </tr>
     <!-- Design -->
